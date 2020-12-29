@@ -1,0 +1,89 @@
+body {
+  font-family: "Roboto";
+}
+
+/* questions and shouting styles-------------- */
+/* .container {
+  width: 35%;
+  height: 5em;
+  background-color: lightgreen;
+  margin: auto;
+  text-align: center;
+  box-shadow: 0 0 5px black;
+}
+
+.input-text {
+  width: 75%;
+  line-height: 2em;
+  margin: auto;
+}
+
+.shout-text {
+  color: red;
+  margin: auto;
+  font-size: 22px;
+  font-weight: bold;
+} */
+
+/* color picker styles----------------------- */
+/*
+body {
+  background-color: darkblue;
+}
+.container {
+  margin: auto;
+  margin-top: 5em;
+  width: 55%;
+  height: 400px;
+  box-shadow: 0 0 10px black;
+  background-color: lightgray;
+}
+.circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin: auto;
+  position: relative;
+  top: 2.8em;
+}
+.rgb-value {
+  box-sizing: border-box;
+  position: relative;
+  top: 50%;
+  left: 25%;
+  font-family: monospace;
+  font-size: 18px;
+} */
+
+/* Fruit Facts styles----------------------- */
+
+/* .container {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  font-family: monospace;
+}
+.showButton {
+  font-size: 2em;
+  font-family: monospace;
+}
+.box {
+  background-color: lightgray;
+  width: 85%;
+  height: 250px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.first,
+.second,
+.third {
+  width: 30%;
+  height: 150px;
+  background-color: black;
+  color: #fff;
+  position: relative;
+  top: 20%;
+  margin-left: 5px;
+} */
+/* Relish styles------------------------ */
